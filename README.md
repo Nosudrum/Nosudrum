@@ -8,7 +8,7 @@
 
 💻 Outside of my studies, you will can find me heavily invested in [The Space Devs](https://thespacedevs.com) 🛰️ as a core staff member for the [Launch Library 2](https://thespacedevs.com/llapi) 🚀 and [Spaceflight News](https://thespacedevs.com/snapi) 📰 APIs.
 
-🎮 Apart from that, you might encounter me at the helm of ships of varying sizes alongside crewmates thirsty for treasure on [Sea of Thieves](https://www.seaofthieves.com/) 🏴‍☠️.
+🎮 Apart from that, you might encounter me at the helm of ships of varying sizes alongside crewmates thirsty for blood and hungry for treasure on [Sea of Thieves](https://www.seaofthieves.com/) 🏴‍☠️.
 
 Finally, in no particular order, I like :
 - Trains
@@ -22,6 +22,8 @@ Finally, in no particular order, I like :
 ## 👩‍💻 Links
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/arnaud-muller-50b798138/), [Twitter](https://twitter.com/Nosudrum), [Discord](https://discord.com/users/185822873913393153), [Steam](https://steamcommunity.com/id/Nosudrum/).
+
+Do check out the work I do over in my [launch-stats](github.com/nosudrum/launch-stats) repository. The plots are nice to have a quick look at, regardless of your interest in the topic :) 
 
 ## 🍿 Fun facts
 
