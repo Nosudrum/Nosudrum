@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 👋 Hi there! I'm Arnaud, a French (but European by heart) student passionate about space, technology, engineering and a lot of other stuff.
 
