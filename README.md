@@ -23,7 +23,7 @@ Finally, in no particular order, I like :
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/arnaud-muller-50b798138/), [Twitter](https://twitter.com/Nosudrum), [Discord](https://discord.com/users/185822873913393153), [Steam](https://steamcommunity.com/id/Nosudrum/).
 
-Do check out the work I do over in my [launch-stats](github.com/nosudrum/launch-stats) repository. The plots are nice to have a quick look at, regardless of your interest in the topic :) 
+Do check out the work I do over in my [launch-stats](https://github.com/nosudrum/launch-stats) repository. The plots are nice to have a quick look at, regardless of your interest in the topic :) 
 
 ## 🍿 Fun facts
 
