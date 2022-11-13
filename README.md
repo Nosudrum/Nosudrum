@@ -21,7 +21,7 @@ Finally, in no particular order, I like :
 
 ## 👩‍💻 Links
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/arnaud-muller-50b798138/), [Twitter](https://twitter.com/Nosudrum), [Discord](https://discord.com/users/185822873913393153), [Reddit](https://www.reddit.com/user/Nosudrum), [Steam](https://steamcommunity.com/id/Nosudrum/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/arnaud-muller-50b798138/), [Twitter](https://twitter.com/Nosudrum), <a rel="me" href="https://spacey.space/@nosu">Mastodon</a>, [Discord](https://discord.com/users/185822873913393153), [Reddit](https://www.reddit.com/user/Nosudrum), [Steam](https://steamcommunity.com/id/Nosudrum/).
 
 Do check out the work I do over in my [launch-stats](https://github.com/nosudrum/launch-stats) repository. The plots are nice to have a quick look at, regardless of your interest in the topic :) 
 
@@ -44,5 +44,3 @@ In no particular order :
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-<a rel="me" href="https://spacey.space/@nosu">Mastodon</a>
