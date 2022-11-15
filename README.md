@@ -8,8 +8,6 @@
 
 💻 Outside of my studies, you will can find me heavily invested in [The Space Devs](https://thespacedevs.com) 🛰️ as a core staff member for the [Launch Library 2](https://thespacedevs.com/llapi) 🚀 and [Spaceflight News](https://thespacedevs.com/snapi) 📰 APIs.
 
-🎮 Apart from that, you might encounter me at the helm of ships of all sizes alongside crewmates looking for good fights and treasure on [Sea of Thieves](https://www.seaofthieves.com/) 🏴‍☠️.
-
 Finally, in no particular order, I like :
 - Trains
 - Nuclear power
