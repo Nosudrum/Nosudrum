@@ -9,7 +9,7 @@
 
 👋 Hi there! I'm Arnaud, a French (but European by heart) student passionate about space, technology, engineering and a lot of other stuff.
 
-👨‍🎓 After doing a BSc and MSc in Mechanical Engineering at EPFL, with one year of exchange in Aerospace Engineering at TU Delft, as well as a double-degree in Aerospace Engineering at ISAE-Supaéro, I worked as a trajectory optimization intern at CNES.
+👨‍🎓 After doing a BSc and MSc in Mechanical Engineering at EPFL, with one year of exchange in Aerospace Engineering at TU Delft, as well as a double-degree in Aerospace Engineering at ISAE-Supaéro, I worked as a trajectory optimization intern at CNES. I currently work there as a Flight Dynamics Engineer.
 
 💻 Outside of professional life, you will find me heavily invested in [The Space Devs](https://thespacedevs.com) 🛰️ as a core staff member for the [Launch Library 2](https://thespacedevs.com/llapi) 🚀 and [Spaceflight News](https://thespacedevs.com/snapi) 📰 APIs.
 
